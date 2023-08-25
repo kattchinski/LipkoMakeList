@@ -1,0 +1,16 @@
+F:\programming\C++ projects\C++ Learning\MyFirstWFORMs\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.AssemblyReference.cache
+F:\programming\C++ projects\C++ Learning\MyFirstWFORMs\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.SuggestedBindingRedirects.cache
+F:\programming\C++ projects\C++ Learning\MyFirstWFORMs\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.MyForm.resources
+F:\programming\C++ projects\C++ Learning\MyFirstWFORMs\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.GenerateResource.cache
+F:\programming\C++ projects\C++ Learning\MakeList v.2.1\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.AssemblyReference.cache
+F:\programming\C++ projects\C++ Learning\MakeList v.2.1\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.SuggestedBindingRedirects.cache
+F:\programming\C++ projects\C++ Learning\MakeList v.2.1\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.MyForm.resources
+F:\programming\C++ projects\C++ Learning\MakeList v.2.1\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.GenerateResource.cache
+F:\programming\C++ projects\C++ Learning\MakeList\MakeList v.2.2\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.AssemblyReference.cache
+F:\programming\C++ projects\C++ Learning\MakeList\MakeList v.2.2\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.SuggestedBindingRedirects.cache
+F:\programming\C++ projects\C++ Learning\MakeList\MakeList v.2.2\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.MyForm.resources
+F:\programming\C++ projects\C++ Learning\MakeList\MakeList v.2.2\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.GenerateResource.cache
+F:\programming\C++ projects\C++ Learning\MakeList\MakeList v.2.3 Rework\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.AssemblyReference.cache
+F:\programming\C++ projects\C++ Learning\MakeList\MakeList v.2.3 Rework\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.SuggestedBindingRedirects.cache
+F:\programming\C++ projects\C++ Learning\MakeList\MakeList v.2.3 Rework\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.MyForm.resources
+F:\programming\C++ projects\C++ Learning\MakeList\MakeList v.2.3 Rework\MyFirstWFORMs\x64\Debug\MyFirstWFORMs.vcxproj.GenerateResource.cache
