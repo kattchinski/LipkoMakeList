@@ -1,2 +1,2 @@
-# LipkoMakeList
-программа на windows forms для рахунку кількості продукції
+# LipkoMakeList 2022
+Calculating number of dumplings, patties
